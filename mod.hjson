@@ -1,0 +1,6 @@
+name: "A big drill."
+displayName: "[orange]A very very[gold] big drill." //what displays in the mod selection menu
+author: "UntoldEntity"
+description: "[orange]just adds a very very large drill"
+version: "3.1"
+minGameVersion: "126"
